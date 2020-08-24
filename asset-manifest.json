@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/searchbox_assignment/static/css/main.7259c817.chunk.css",
-    "main.js": "/searchbox_assignment/static/js/main.dbc31711.chunk.js",
-    "main.js.map": "/searchbox_assignment/static/js/main.dbc31711.chunk.js.map",
+    "main.js": "/searchbox_assignment/static/js/main.86c7a866.chunk.js",
+    "main.js.map": "/searchbox_assignment/static/js/main.86c7a866.chunk.js.map",
     "runtime-main.js": "/searchbox_assignment/static/js/runtime-main.d0de5380.js",
     "runtime-main.js.map": "/searchbox_assignment/static/js/runtime-main.d0de5380.js.map",
     "static/js/2.8db86a1f.chunk.js": "/searchbox_assignment/static/js/2.8db86a1f.chunk.js",
     "static/js/2.8db86a1f.chunk.js.map": "/searchbox_assignment/static/js/2.8db86a1f.chunk.js.map",
     "index.html": "/searchbox_assignment/index.html",
-    "precache-manifest.61cdd845a2f439e9024437bf1896b498.js": "/searchbox_assignment/precache-manifest.61cdd845a2f439e9024437bf1896b498.js",
+    "precache-manifest.36a223ef52f59d519d84779fcef9e775.js": "/searchbox_assignment/precache-manifest.36a223ef52f59d519d84779fcef9e775.js",
     "service-worker.js": "/searchbox_assignment/service-worker.js",
     "static/css/main.7259c817.chunk.css.map": "/searchbox_assignment/static/css/main.7259c817.chunk.css.map",
     "static/js/2.8db86a1f.chunk.js.LICENSE.txt": "/searchbox_assignment/static/js/2.8db86a1f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d0de5380.js",
     "static/js/2.8db86a1f.chunk.js",
     "static/css/main.7259c817.chunk.css",
-    "static/js/main.dbc31711.chunk.js"
+    "static/js/main.86c7a866.chunk.js"
   ]
 }
