@@ -57,7 +57,6 @@ class App extends React.Component {
 
   intoView = (person_i) => {
     const elem = this.personsRef[person_i];
-    console.log(this.personsRef, person_i);
     if (!person_i || !elem) return;
     elem.scrollIntoView({ block: "center" });
 
@@ -70,7 +69,6 @@ class App extends React.Component {
     const response = await fetch(url);
     const data = await response.json();
     this.setState({ people: data, loading: false }, () => this.filterPeople())
-    console.log(data[0]);
     document.addEventListener("keydown", this.handleKeyDown);
   }
 
